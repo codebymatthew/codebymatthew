@@ -4,14 +4,16 @@ My name is Matthew and I like to code!  I develop web applications on the MERN s
 
 
 🔭 I’m currently working on ...  
-A soon to be open source communication board for non-verbal folx <https://talktometechnology.netlify.app/> github repo - <https://tinyurl.com/talktometech>  
+Maintainer on a soon to be open source communication board for non-verbal folx <https://talktometechnology.netlify.app/>  
+github repo - <https://tinyurl.com/talktometech>  
 
-🌱 I’m currently learning ...  
+🌱 My current languages...  
 let knowledge = ['HTML', 'CSS', 'JavsScript', 'Node.jS']  
 
 📫 How to reach me: ...  
 <matthew.mitchell.job@gmail.com>  
 <https://twitter.com/matthew_codes>  
+<https://codebymatthew.com>  
 
 😄 Pronouns: ...  
 He/Him  
