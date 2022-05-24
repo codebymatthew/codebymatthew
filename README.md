@@ -4,7 +4,7 @@ My name is Matthew and I like to code!  I develop web applications on the MERN s
 
 
 🔭 I’m currently working on ...  
-Maintainer on a soon to be open source communication board for non-verbal folx <https://talktometechnology.netlify.app/>  
+Maintainer on the open source communication board for non-verbal folx <https://talktometechnology.netlify.app/>  
 github repo - <https://tinyurl.com/talktometech>  
 
 🌱 My current languages...  
