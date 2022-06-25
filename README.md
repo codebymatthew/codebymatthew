@@ -8,7 +8,7 @@ Maintainer on the open source communication board for non-verbal folx <https://t
 github repo - <https://tinyurl.com/talktometech>  
 
 🌱 My current languages...  
-let knowledge = ['HTML', 'CSS', 'JavsScript', 'Node.jS']  
+let knowledge = ['HTML', 'CSS', 'JavsScript', 'Node.jS', 'Express']  
 
 📫 How to reach me: ...  
 <matthew.mitchell.job@gmail.com>  
