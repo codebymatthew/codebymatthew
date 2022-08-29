@@ -3,7 +3,7 @@
 My name is Matthew and I like to code!  I develop web applications on the MERN stack and you can track my progress on this github! 
 
 🌱 My current languages...  
-let knowledge = ['HTML', 'CSS', 'JavsScript', 'Node.js', 'Express']  
+let knowledge = ['HTML', 'CSS', 'JavsScript', 'Node.js', 'Express', 'MongoDB']  
 
 📫 How to reach me: ...  
 <matthew.mitchell.job@gmail.com>  
