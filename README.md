@@ -2,11 +2,6 @@
 
 My name is Matthew and I like to code!  I develop web applications on the MERN stack and you can track my progress on this github! 
 
-
-🔭 I’m currently working on ...  
-Maintainer on the open source communication board for non-verbal folx <https://talktometechnology.netlify.app/>  
-github repo - <https://tinyurl.com/talktometech>  
-
 🌱 My current languages...  
 let knowledge = ['HTML', 'CSS', 'JavsScript', 'Node.js', 'Express']  
 
