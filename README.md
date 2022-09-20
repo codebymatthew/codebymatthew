@@ -6,7 +6,7 @@ My name is Matthew and I like to code!  I develop web applications on the MERN s
 let knowledge = ['HTML', 'CSS', 'JavsScript', 'Node.js', 'Express', 'MongoDB']  
 
 🔭 I’m currently working on ...
-let studying = ['MVC', 'CRUD', 'React']  
+let studying = ['MVC', 'CRUD', 'React', 'Tailwind']  
 
 📫 How to reach me: ...  
 <matthew.mitchell.job@gmail.com>  
