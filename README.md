@@ -10,8 +10,9 @@ let studying = ['MVC', 'CRUD', 'React', 'Tailwind']
 
 📫 How to reach me: ...  
 <matthew.mitchell.job@gmail.com>  
-<https://twitter.com/matthew_codes>  
 <https://codebymatthew.com>  
+<https://linkedin.com/in/codebymatthew>  
+<https://twitter.com/matthew_codes>  
 
 😄 Pronouns: ...  
 He/Him  
