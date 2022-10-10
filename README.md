@@ -41,7 +41,7 @@ My first job was as a balloon artist
       <h3 align="center">Stitched to Death</h3>
         <br />
         <a target="_blank" href="https://stitchedtodeath.cyclic.app">
-            <img src="https://i.imgur.com/xEzxnXo.gif" width="100%" alt="Giphy preview of Stitched to Death app"/>
+            <img src="https://i.imgur.com/G9oX67P.png" width="100%" alt="Screenshot of Stitched to Death app"/>
         </a>
         <br />
         <p align="center">
@@ -58,7 +58,7 @@ My first job was as a balloon artist
       <h3 align="center">Bean Envy</h3>
         <br />
         <a target="_blank" href="https://bean-envy.netlify.app">
-            <img src="https://i.imgur.com/Wm1JqvJ.png" width="100%" alt="Giphy preview of Stitched to Death app"/>
+            <img src="https://i.imgur.com/Wm1JqvJ.png" width="100%" alt="Screenshot of bean envy site"/>
         </a>
         <br />
         <p align="center">
@@ -70,11 +70,44 @@ My first job was as a balloon artist
   </a>
       </p>
        <p><strong>JavaScript, HTML, CSS </strong> - Made for a graphic designer client as a mockup for personal website.</p>
-
-
-
-
+  </tr>
   
+  
+  
+  
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Graphic Designer Profile</h3>
+        <br />
+        <a target="_blank" href="https://">
+            <img src="https://i.imgur.com/qHlJC3R.png" width="100%" alt="Screenshot of graphic designer portfolio"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/codebymatthew/designerportfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+          <a href="https://github.com/codebymatthew/designerportfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>JavaScript, HTML, CSS </strong> - Template mockup for client for their personal portfolio. </p>
+  </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Scott Friel Resume</h3>
+        <br />
+        <a target="_blank" href="https://bean-envy.netlify.app">
+            <img src="https://imgur.com/KZV1f7i.png" width="100%" alt="Screenshot of personal resume site"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://scottfriel.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+       <p><strong>JavaScript, HTML, CSS </strong> - Personal resume website made for a client.</p>
+       </td>
   </tr>
 
 
