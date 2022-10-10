@@ -80,7 +80,7 @@ My first job was as a balloon artist
     <td width="50%" valign="top">
       <h3 align="center">Graphic Designer Profile</h3>
         <br />
-        <a target="_blank" href="https://">
+        <a target="_blank" href="https://chester-friends.netlify.app">
             <img src="https://i.imgur.com/qHlJC3R.png" width="100%" alt="Screenshot of graphic designer portfolio"/>
         </a>
         <br />
@@ -88,7 +88,7 @@ My first job was as a balloon artist
           <a href="https://github.com/codebymatthew/designerportfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-          <a href="https://github.com/codebymatthew/designerportfolio" target="_blank">
+          <a href="https://chester-friends.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -97,7 +97,7 @@ My first job was as a balloon artist
     <td width="50%" valign="top">
       <h3 align="center">Scott Friel Resume</h3>
         <br />
-        <a target="_blank" href="https://bean-envy.netlify.app">
+        <a target="_blank" href="https:scottfriel.com">
             <img src="https://imgur.com/KZV1f7i.png" width="100%" alt="Screenshot of personal resume site"/>
         </a>
         <br />
