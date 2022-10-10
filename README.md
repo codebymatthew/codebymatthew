@@ -97,7 +97,7 @@ My first job was as a balloon artist
     <td width="50%" valign="top">
       <h3 align="center">Scott Friel Resume</h3>
         <br />
-        <a target="_blank" href="https:scottfriel.com">
+        <a target="_blank" href="https://scottfriel.com">
             <img src="https://imgur.com/KZV1f7i.png" width="100%" alt="Screenshot of personal resume site"/>
         </a>
         <br />
